@@ -1,6 +1,6 @@
 # miweb
 ## porfolio
--A
--B
--C
+- A
+- B
+- C
 ### RRSS
